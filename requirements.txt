@@ -1,0 +1,4 @@
+sentence-transformer
+scikit-learn
+numpy
+matplotlib
